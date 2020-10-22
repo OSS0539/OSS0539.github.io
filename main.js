@@ -14,9 +14,6 @@ function xhrGet(url, callback) {
 mdui.confirm(''
         + '<div class="mdui-typo">'
         +     '<p>'
-                    '本工具由微信公众号开源软件分享！原始出处
-              '</p>'
-              '<p>'
         +         '使用本工具<strong>不需要强制关注任何公众号或转发任何内容到朋友圈</strong>。如果你发现有公众号存在类似<strong>“关注○○，发送○○，转发○○到朋友圈领取○○”</strong>的行为，请对此类<strong>诱导行为</strong>进行<strong>投诉</strong>。'
         +         '<a href="https://mp.weixin.qq.com/cgi-bin/readtemplate?t=business/faq_operation_tmpl#3dot3_3" target="_blank">什么是诱导行为？</a>'
         +     '</p>'
@@ -45,7 +42,7 @@ xhrGet('https://cdn.jsdelivr.net/gh/TransparentLC/WechatMomentScreenshot/emotico
 
 // 读取配置
 var configDefault = {
-    name: '微信公众号开源软件',
+    name: 'A 开源软件',
     text: '很实用的教程[微笑]\n需要收集五个赞 谢谢大家啦～(　^ω^)',
     location: '',
     app: '',
