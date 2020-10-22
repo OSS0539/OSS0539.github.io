@@ -4,7 +4,9 @@
 
 朋友圈转发截图生成工具
 
-[去这里使用](https://transparentlc.github.io/WechatMomentScreenshot)
+本工具由微信公众号#开源软件#分享，[原始出处](https://github.com/TransparentLC/WechatMomentScreenshot)
+
+[去这里使用](https://oss0539.github.io/)
 
 > 本工具生成的截图，仅可用于**个人应付各类强制要求转发朋友圈的情形**，请勿**批量生成截图**或将截图用于**造谣诽谤、微商宣传**等非法或令人反感的用途。
 >
