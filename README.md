@@ -1,20 +1,19 @@
 # WechatMomentScreenshot
 
-[![HitCount](http://hits.dwyl.io/TransparentLC/WechatMomentScreenshot.svg)](http://hits.dwyl.io/TransparentLC/WechatMomentScreenshot)
 
 朋友圈转发截图生成工具
 
-本工具由微信公众号[开源软件](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNzEwMzIwOQ==&action=getalbum&album_id=1326570936056889345&scene=173&from_msgid=2247490107&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=91&sessionid=1603334706&enterid=1603334712)分享! [原始出处](https://github.com/TransparentLC/WechatMomentScreenshot)
+本工具由微信公众号[开源软件](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNzEwMzIwOQ==&action=getalbum&album_id=1326570936056889345&scene=173&from_msgid=2247490107&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=91&sessionid=1603334706&enterid=1603334712)分享! 
+
+关注我的公众号获取更多神器！
+[](https://mmbiz.qpic.cn/mmbiz_png/r8emXAtHbZFe7yjx2CqiaRDBPRkbxnmrmCC82Sib48VzicQhJUBicjqRLf0PPlsh3ibKxzMnNnpupblRrTKDo3gHE9g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+
+[工具源码原始出处](https://github.com/TransparentLC/WechatMomentScreenshot)
 
 [去这里使用](https://oss0539.github.io/)
 
 > 本工具生成的截图，仅可用于**个人应付各类强制要求转发朋友圈的情形**，请勿**批量生成截图**或将截图用于**造谣诽谤、微商宣传**等非法或令人反感的用途。
->
-> 不接受定制请求，有功能请求可以添加 Issue，如果建议合理的话我可能就会添加～
-
-> 由于有广告机滥用 GitHub Pages 和 git.io 发广告，所有 git.io 短链接已获得微信的“绿色网站认证”。~~如果你需要在微信中使用，请使用完整链接 https://transparentlc.github.io/WechatMomentScreenshot~~ Yattaze！这个工具也已经荣获微信的“认证”啦！(　\^ω\^) 当然我更建议你抵制或尽量减少使用这类**正在制造“墙中墙”的 APP**。
->
-> *本工具是开源的，如果有人愿意自己部署镜像站并分享给大家使用，那就太棒了！你可以通过 Issue 提交镜像站地址。*
 
 ---
 
@@ -42,68 +41,3 @@
 
 另外，头像并未按照不同类型出现的频率整理，也就是说某种类型的头像在截图中出现的概率可能会明显偏离实际 ( ﾟ∀。)
 
-### 更新记录
-
-姿势水平太低，当时的代码写得太乱了，或许应该重写一下，或者……🕊️了！
-
-<details>
-
-<summary>点击展开</summary>
-
-#### 2020.6.20
-
-生成截图的时候将会把一些设置使用 localStorage 保存，下次打开小工具的时候就不需要重新设置一遍了～
-
-将会保存以下设置：
-
-* 用户名
-* 头像（但是不要选择文件大小很大的头像啊……）
-* 正文
-* 定位
-* 转发出处
-* 图片长度
-* 使用 7.0 以上版本白色界面
-* 显示 APP 图标
-* 随机信号和电量
-
-#### 2020.5.26
-
-由于自己的服务器用了 Cloudflare 的免费 CDN，然而最近分配到的 IPv4 地址被墙了，所以后端（在墙内）不能用了……
-
-于是试着用 Cloudflare Worker 写了个~~简单的代理~~（参见文件 `cfworker_proxy.js`）解决之(〃′▽`)~~
-
-直接使用 [Images.weserv.nl](https://images.weserv.nl/) 的服务中转图片，就不需要部署后端了！
-
-#### 2019.12.5
-
-~~解决了一些已知问题。~~
-
-支持选择生成 7.0 以上版本白色界面的截图。
-
-#### 2019.6.8
-
-还是根据 [Issue #4](https://github.com/TransparentLC/WechatMomentScreenshot/issues/4)，增加了在生成的截图中设定评论的功能～ฅ•̀∀•́ฅ
-
-#### 2019.6.6
-
-根据 [Issue #4](https://github.com/TransparentLC/WechatMomentScreenshot/issues/4) 修正了时间显示的问题。
-
-* 截图日期和发表日期在同一天，时间显示为`**:**`。
-* 截图日期在发表日期前一天，时间显示为`昨天 **:**`。
-* 其他情况，时间显示为`****年**月**日 **:**`。
-
-现在可以用短链接 [https://git.io/WMS](https://git.io/WMS) 打开本工具了～欢迎分享给有需要的人(`ヮ´ )
-
-~~也欢迎请小透明喝肥宅快乐水(\*´∀`)~~
-
-#### 2019.5.14
-
-新功能：输入微信公众号文章链接，自动获取文章标题和封面。
-
-* 相关后端代码参见文件 `get_article_info.php`。
-
-#### 2019.3.1
-
-新功能：生成发表纯文字或图片的截图。
-
-</details>
