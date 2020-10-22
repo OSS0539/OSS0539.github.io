@@ -4,7 +4,7 @@
 
 朋友圈转发截图生成工具
 
-本工具由微信公众号#开源软件#分享，[原始出处](https://github.com/TransparentLC/WechatMomentScreenshot)
+本工具由微信公众号[开源软件](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNzEwMzIwOQ==&action=getalbum&album_id=1326570936056889345&scene=173&from_msgid=2247490107&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=91&sessionid=1603334706&enterid=1603334712)分享，[原始出处](https://github.com/TransparentLC/WechatMomentScreenshot)
 
 [去这里使用](https://oss0539.github.io/)
 
