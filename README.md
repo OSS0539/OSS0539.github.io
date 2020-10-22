@@ -1,19 +1,16 @@
-# WechatMomentScreenshot
+# 朋友圈转发截图生成工具
 
 
-朋友圈转发截图生成工具
 
-本工具由微信公众号[开源软件](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNzEwMzIwOQ==&action=getalbum&album_id=1326570936056889345&scene=173&from_msgid=2247490107&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=91&sessionid=1603334706&enterid=1603334712)分享! 
-
-
-![关注我的公众号获取更多神器！](https://mmbiz.qpic.cn/mmbiz_png/r8emXAtHbZFe7yjx2CqiaRDBPRkbxnmrmCC82Sib48VzicQhJUBicjqRLf0PPlsh3ibKxzMnNnpupblRrTKDo3gHE9g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+本工具由微信公众号[开源软件](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNzEwMzIwOQ==&action=getalbum&album_id=1326570936056889345&scene=173&from_msgid=2247490107&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=91&sessionid=1603334706&enterid=1603334712)基于[这个开源工具](https://github.com/TransparentLC/WechatMomentScreenshot)修改分享! 
 
 
-[工具源码原始出处](https://github.com/TransparentLC/WechatMomentScreenshot)
+![关注我的公众号获取更多神器！](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUzNzEwMzIwOQ==&mid=2247490091&idx=1&sn=fb1342014c2b53db11b1d86ef77cc84f&send_time=)
+
+
 
 [去这里使用](https://oss0539.github.io/)
 
-> 本工具生成的截图，仅可用于**个人应付各类强制要求转发朋友圈的情形**，请勿**批量生成截图**或将截图用于**造谣诽谤、微商宣传**等非法或令人反感的用途。
 
 ---
 
@@ -40,4 +37,6 @@
 头像是我自己手动从<abbr title="新浪微博">肖浪微博</abbr>、<abbr title="知乎">故事乎/带货乎</abbr>、<abbr title="哔哩哔哩">睿站</abbr>等网络社区转存的。如果你在此工具中发现了你正在使用的头像则纯属巧合。
 
 另外，头像并未按照不同类型出现的频率整理，也就是说某种类型的头像在截图中出现的概率可能会明显偏离实际 ( ﾟ∀。)
+
+> 本工具生成的截图，仅可用于**个人应付各类强制要求转发朋友圈的情形**，请勿**批量生成截图**或将截图用于**造谣诽谤、微商宣传**等非法或令人反感的用途。
 
