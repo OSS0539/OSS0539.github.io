@@ -5,8 +5,8 @@
 
 本工具由微信公众号[开源软件](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzNzEwMzIwOQ==&action=getalbum&album_id=1326570936056889345&scene=173&from_msgid=2247490107&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=91&sessionid=1603334706&enterid=1603334712)分享! 
 
-关注我的公众号获取更多神器！
-[](https://mmbiz.qpic.cn/mmbiz_png/r8emXAtHbZFe7yjx2CqiaRDBPRkbxnmrmCC82Sib48VzicQhJUBicjqRLf0PPlsh3ibKxzMnNnpupblRrTKDo3gHE9g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+
+![关注我的公众号获取更多神器！](https://mmbiz.qpic.cn/mmbiz_png/r8emXAtHbZFe7yjx2CqiaRDBPRkbxnmrmCC82Sib48VzicQhJUBicjqRLf0PPlsh3ibKxzMnNnpupblRrTKDo3gHE9g/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 
 [工具源码原始出处](https://github.com/TransparentLC/WechatMomentScreenshot)
