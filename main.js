@@ -42,7 +42,7 @@ xhrGet('https://cdn.jsdelivr.net/gh/TransparentLC/WechatMomentScreenshot/emotico
 
 // 读取配置
 var configDefault = {
-    name: 'A 开源软件',
+    name: '微信公众号开源软件',
     text: '很实用的教程[微笑]\n需要收集五个赞 谢谢大家啦～(　^ω^)',
     location: '',
     app: '',
